@@ -11,6 +11,10 @@ FinCloud Capital experienced a simulated security breach due to misconfigured AW
 ✅ Screen Recording: AWS Configuration Steps (EC2, IAM, S3)  
 ✅ Cloud Security Recommendations  
 
+https://docs.google.com/document/d/1cF8Ft9HELPpagJ0CeSULhx1g1A6UnLrX/edit?usp=drive_link&ouid=104361178458570517128&rtpof=true&sd=true
+
+https://drive.google.com/file/d/1F-jGwFVXv-P2JjTTElzydYIrefWiqGlv/view - (AWS demo)
+
 ## Skills Demonstrated
 - AWS Infrastructure Setup (EC2, IAM Users, S3 Buckets)  
 - Incident Detection and Breach Analysis  
